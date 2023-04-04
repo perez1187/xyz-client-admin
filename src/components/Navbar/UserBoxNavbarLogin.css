@@ -1,0 +1,12 @@
+.navbarDefButtons1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    /* identical to box height, or 29px */
+
+    letter-spacing: 0.004em;
+
+    color: #FBFBFB;
+}

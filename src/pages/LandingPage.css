@@ -1,0 +1,67 @@
+.componentResults {
+    background-color: #23262F;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+
+/* column 1 with results */
+.compResultsOne {
+    /* background-color:aliceblue; */
+    width: 1500px;
+    border: 1.20207px dashed #3B71FE;
+
+}
+
+/* column 2 with settlements and club results */
+.compResultsTwo {
+    /* background-color:; */
+    width: 700px;
+    border: 1.20207px dashed #3B71FE;
+}
+
+.nickres {
+    display: flex;
+    flex-direction: row;
+    color: #BCD7FF;
+    margin: 7px;
+
+}
+
+.resHead {
+    width: 150px;
+    color: #BCD7FF;
+    margin-bottom: 20px;
+}
+
+.resHeadMini {
+    width: 110px;
+    color: #BCD7FF;
+    margin-bottom: 20px;
+}
+
+.resTab {
+    width: 150px;
+    color: #FFFFFF;
+}
+
+.resTabMini {
+    width: 110px;
+    color: #FFFFFF;
+}
+
+.dropMenu {
+    background-color: aliceblue;
+    width: 200px;
+    /* justify-content: center; */
+}
+
+.col{
+    color: yellowgreen;
+}
+
+.colRed {
+    color:brown;
+}

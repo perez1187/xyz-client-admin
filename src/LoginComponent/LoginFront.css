@@ -1,0 +1,8 @@
+.forgotPassword {
+    font-size: 6x;
+    color: black;
+}
+
+.forgotPassword:hover {
+    color: blue;
+}
