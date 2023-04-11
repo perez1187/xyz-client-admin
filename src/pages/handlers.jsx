@@ -10,10 +10,10 @@ export     function headOfResults(sumProfit, sumRake, sumProfitAdj, sumRb, sumRb
           <div> </div>
         </div>
         <div className='resHead'> 
-          <div>nickname:</div>
+          <div>Nickname:</div>
           <div> </div>
         </div>
-        <div className='resHead'>club : </div>
+        <div className='resHeadClub'>Club : </div>
         <div className='resHeadMini'>  
           <div>profit:</div>
           <div> {Math.round(sumProfit*100)/100} $</div>
@@ -86,7 +86,7 @@ export  function showPlayerResults (results) {
                   <div className='nickres'> 
                    <div className='resTab'>{element.nickname__player__username} </div>
                     <div className='resTab'>{element.nickname__nickname} </div>
-                    <div className='resTab'>{element.club__club} </div>
+                    <div className='resTabClub'>{element.club__club} </div>
                     <div className='resTabMini'>{Math.round(element.total_profit *100)/100}$</div>
                     <div className='resTabMini'>{Math.round(element.total_profit * element.avg_adj*100)/100} $</div>
                     <div className='resTabMini'>{Math.round(element.total_rb*100)/100}$ </div>                    

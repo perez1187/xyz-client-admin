@@ -36,6 +36,12 @@
     margin-bottom: 20px;
 }
 
+.resHeadClub {
+    width: 200px;
+    color: #BCD7FF;
+    margin-bottom: 20px;
+}
+
 .resHeadMini {
     width: 110px;
     color: #BCD7FF;
@@ -49,6 +55,11 @@
 
 .resTabMini {
     width: 110px;
+    color: #FFFFFF;
+}
+
+.resTabClub {
+    width: 200px;
     color: #FFFFFF;
 }
 
